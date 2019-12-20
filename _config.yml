@@ -1,7 +1,8 @@
 name: "Jekyll true minimal theme"
 description: "Lightweight theme"
+google: "154864300-1"
 
-url: '' 
+url: 'https://hikewithhayk.github.io/miniproject3/'
 baseurl: ''
 
 markdown: kramdown
